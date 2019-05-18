@@ -2,6 +2,7 @@ Using Google's Stackdriver API Client Library for Python
 =========================================
 
 The Stackdriver API Client Library is a thin wrapper for accessing Stackdriver's public REST API. More info on this client: https://en.wikipedia.org/wiki/Stackdriver#Features
+
 Examples
 --------
 
